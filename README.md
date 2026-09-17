@@ -1,4 +1,4 @@
-# Smart Attendance & Wellbeing System
+# Smart Attendance System
 
 A command-line Computer Vision system that enrolls people by face, marks attendance automatically via face recognition, and tags each check-in with a detected emotion — turning a plain attendance log into a lightweight wellbeing/analytics signal.
 
